@@ -34,7 +34,6 @@ Users should be able to:
 
 - [Solution URL](https://github.com/SparrowHawkEye/FM_ResultSummaryComponent)
 - [Live Site URL](https://fmresultsummarycomponent.netlify.app/)
--
 
 ## My process
 
